@@ -24,8 +24,8 @@ This is an extremely large dataset, containing 34 features and 20 million record
 |mqtt.hdrflags	|-	|Header Flags|
 |mqtt.kalive	|-	|Keep Alive|
 |mqtt.len	|Cannot be negative	|Msg Len|
-|mqtt.msg	|Unique	|Message|
-|mqtt.msgid	|Unique	|Message Identifier|
+|mqtt.msg	|Cannot be negative	|Message|
+|mqtt.msgid	|Cannot be negative	|Message Identifier|
 |mqtt.msgtype	|-	|Message Type|
 |mqtt.proto_len	|Cannot be negative	|Protocol Name Length|
 |mqtt.protoname	|-	|Protocol Name|
