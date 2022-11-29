@@ -60,7 +60,7 @@ After the data was preprocessed, it was used as the input to various machine lea
 |Multi – Class	|Spark	|Decision Tree |Max Depth, Max Bins	|81.96	|81.1	|87.03	|-	|-|
 |Multi – Class	|Spark	|Logistic Regression	|Reg Parameter, Max Iterations 	|-	|82.85	|82.85	|-	|-|
 |Multi – Class	|TensorFlow	|Shallow Neural Network	|NN Width, NN Depth	|82.93	|76.07	|76.53	|-	|-|
-|Multi – Class	|Deep Neural Network	|NN Width, NN Depth	|82.71	|77.12	|79.59	|-	|-|
+|Multi – Class	|TensorFlow |Deep Neural Network	|NN Width, NN Depth	|82.71	|77.12	|79.59	|-	|-|
 |Binary	|Spark	|Decision Tree	|Max Depth, Max Bins	|94.08	|94.05	|-	|0.91	|0.95|
 |Binary	|Spark |Linear SVC	|Reg Parameter, Max Iterations 	|85.74	|85.33	|-	|0.91	|0.92|
 |Binary	|TensorFlow	|Shallow Neural Network	|NN Width, NN Depth	|86.29	|83.71	|85.3	|-	|-|
