@@ -103,5 +103,7 @@ In both binary and multi-class classification, the decision tree model performs 
 
 # Deploying Models in Google Cloud
 
-After all the models were tested locally, they were deployed in google cloud. Due to heavy traffic in all the servers, all categorical variables had to be removed to run the files. As a result, the test accuracies of all the models were significantly less as compared to those in the Jupyter notebooks. In addition, a Postgres SQL Instance was created in Cloud and was able to be connected to the Postgres SQL local database through PgAdmin4. 
+After all the models were tested locally, they were deployed in google cloud. Due to heavy traffic in all the servers, all categorical variables had to be removed to run the files. As a result, the test accuracies of all the models were significantly less as compared to those in the Jupyter notebooks. These cloud notebooks were downloaded after being run in cloud. In addition, a Postgres SQL Instance was created in Cloud and was able to be connected to the Postgres SQL local database through PgAdmin4, the screenshot is attached as well.
+
+
 
