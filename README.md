@@ -1,3 +1,6 @@
+# Video Link
+https://cmu.box.com/s/di98jeuidi54oqcuucdeo77tnxh79gyq
+
 # 14-813 Course Project 2 – MQTT Dataset
 
 This project involves using the MQTT dataset to conduct data processing and machine learning. This dataset, also known as Message Queuing Telemetry Transport dataset, focuses on predicting the cyber-attacks conducted on an automated house system. Each aspect of the home, from temperature to humidity, is controlled by a sensor under the Internet of Things system and is vulnerable to cyber-attacks from malicious nodes.
