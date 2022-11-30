@@ -1,9 +1,0 @@
-FROM python:3
-
-WORKDIR /Course Project
-
-COPY . .
-
-RUN pip install findspark, pyspark, tweepy, kafka
-
-CMD [ "python", "./TL project -2 Task 1,2 and 3 till data engineering Final.ipynb" ]
